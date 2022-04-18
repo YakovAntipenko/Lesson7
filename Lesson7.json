@@ -15,6 +15,7 @@
       "inline": [
         "sleep 30",
         "sudo yum update"
+
       ]
     }
   ]
